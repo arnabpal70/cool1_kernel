@@ -196,4 +196,6 @@ source "drivers/dts_eagle/Kconfig"
 
 source "drivers/dts_eagle/Kconfig"
 
+source "drivers/dts_eagle/Kconfig"
+
 endmenu
