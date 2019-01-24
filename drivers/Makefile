@@ -181,6 +181,9 @@ obj-$(CONFIG_AINUR_DTS_SW) += dts_eagle/
 # DTS_EAGLE END
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c5b95ad12487... drivers: dts_eagle software driver port
+=======
 >>>>>>> c5b95ad12487... drivers: dts_eagle software driver port
 =======
 >>>>>>> c5b95ad12487... drivers: dts_eagle software driver port
