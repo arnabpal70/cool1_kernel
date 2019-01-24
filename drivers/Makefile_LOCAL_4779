@@ -160,7 +160,6 @@ obj-$(CONFIG_VME_BUS)		+= vme/
 obj-$(CONFIG_IPACK_BUS)		+= ipack/
 obj-$(CONFIG_NTB)		+= ntb/
 obj-$(CONFIG_ANDROID)		+= android/
-<<<<<<< HEAD
 
 #MobiCore
 obj-$(CONFIG_MOBICORE_SUPPORT)  += gud/
@@ -171,12 +170,3 @@ obj-$(CONFIG_ESOC)		+= esoc/
 obj-$(CONFIG_BIF)		+= bif/
 obj-$(CONFIG_SENSORS)		+= sensors/
 obj-$(CONFIG_SENSORS_SSC)	+= sensors/
-=======
-obj-$(CONFIG_NVMEM)		+= nvmem/
-obj-$(CONFIG_FPGA)		+= fpga/
-obj-$(CONFIG_TEE)		+= tee/
-
-# DTS_EAGLE START
-obj-$(CONFIG_AINUR_DTS_SW) += dts_eagle/
-# DTS_EAGLE END
->>>>>>> c5b95ad12487... drivers: dts_eagle software driver port
